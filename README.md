@@ -51,6 +51,6 @@ Some of my key strengths include:
 
 Feel free to connect with me if you're interested in collaborating on projects, have any questions, or just want to chat about technology!
 
-- Email: 
-- Instagram: 
-- LinkedIn:  
+- [![Email](https://img.icons8.com/ios/50/000000/email.png)](mailto:patel.anujp1406@gmail.com)
+- [![Instagram](https://img.icons8.com/ios/50/000000/instagram-new.png)](https://www.instagram.com/_anuj.14?igsh=MTBlN2N0OTV1Zjd2dg==)
+- [![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/anuj-patel-164a00352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
