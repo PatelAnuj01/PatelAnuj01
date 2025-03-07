@@ -51,6 +51,6 @@ Some of my key strengths include:
 
 Feel free to connect with me if you're interested in collaborating on projects, have any questions, or just want to chat about technology!
 
-- [![Email](https://upload.wikimedia.org/wikipedia/commons/0/09/Envelope_icon.svg)](mailto:patel.anujp1406@gmail.com)
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/_anuj.14?igsh=MTBlN2N0OTV1Zjd2dg==)
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7d/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/anuj-patel-164a00352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.anujp1406@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anuj.14?igsh=MTBlN2N0OTV1Zjd2dg==)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-patel-164a00352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
