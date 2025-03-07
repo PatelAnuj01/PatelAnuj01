@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there, This is Anuj Patel👋
 
-# MERN Stack Developer
+## MERN Stack Developer
 
 Welcome to my GitHub! I'm a passionate **MERN Stack Developer** with expertise in **MongoDB**, **Node.js**, **Express.js**, **React.js**, and various other technologies. I specialize in building full-stack web applications and real-time systems, with a strong focus on both **frontend** and **backend** development, and **database management**.
 
@@ -26,14 +26,13 @@ Here are some of the technologies and tools I work with:
 - **Database:**
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   - ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-- **Version Control:**
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  
 - **Other Tools:**
   - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   - ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  - ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 🌱 About Me
 
@@ -53,4 +52,5 @@ Some of my key strengths include:
 Feel free to connect with me if you're interested in collaborating on projects, have any questions, or just want to chat about technology!
 
 - Email: 
+- Instagram: 
 - LinkedIn:  
